@@ -35,7 +35,7 @@
      "HF": "1",
      "Public_Instance": "0",
      "MediaProxy": ["http://mammamia-urlo.serv00.net:1984/"],
-     "ForwardProxy": [""],
-     "Proxy": [""]
+     "ForwardProxy": [1],
+     "Proxy": [1]
  }
 }
